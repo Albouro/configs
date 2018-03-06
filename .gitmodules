@@ -1,0 +1,6 @@
+[submodule ".tmux"]
+	path = tmux_repo
+	url = https://github.com/gpakosz/.tmux.git
+[submodule "vimrc"]
+	path = vim_repo
+	url = https://github.com/amix/vimrc.git
